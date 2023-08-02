@@ -7,7 +7,7 @@ This is a simple Python-based Sentiment Analysis Chatbot that uses the VADER (Va
 - [Requirements](#requirements)
 - [How it Works](#How-it-Works)
 - [Usage](#usage)
-- 
+
 ## Requirements
 
 - Python 3.x
